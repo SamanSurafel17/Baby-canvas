@@ -2,7 +2,7 @@
 Interactive application built with HTML Canvas, JavaScript and jQuery.
 
 <h4>Description</h4>
-<p>The main purpose of the project was to build an interactive application - Drawing Game. The game demonstrates programming with HTML Canvas, JavaScript and jQuery.</p>
+<p>The main purpose of the project was to build an interactive application -  Baby drowing canvas The game demonstrates programming with HTML Canvas, JavaScript and jQuery.</p>
 <h4>Developing Tools:</h4>
 <ul>
 	<li>HTML Canvas</li>
